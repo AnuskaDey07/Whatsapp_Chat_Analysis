@@ -6,7 +6,7 @@ An interactive data analytics web application that analyzes exported WhatsApp ch
 
 ## 🚀 Project Overview
 
-WhatsApp Chat Analysis is a data visualization and analytics project that allows users to upload exported WhatsApp chat files and explore communication patterns through interactive charts and statistics.
+12 hour WhatsApp Chat Analysis is a data visualization and analytics project that allows users to upload exported WhatsApp chat files and explore communication patterns through interactive charts and statistics.
 
 The application preprocesses raw chat data, extracts useful information, and presents insights such as message statistics, user activity, timelines, word clouds, emoji usage, and chat trends through a user-friendly Streamlit dashboard.
 
