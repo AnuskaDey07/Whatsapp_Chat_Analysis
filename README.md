@@ -75,6 +75,12 @@ The application preprocesses raw chat data, extracts useful information, and pre
 
 * Streamlit
 
+
+### Additional Libraries
+* Emoji
+* URLExtract
+* Regular Expressions (re)
+
 ---
 
 ## 📂 Project Structure
